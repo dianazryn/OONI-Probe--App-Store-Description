@@ -1,0 +1,15 @@
+* OONI Probe / description / string 8 *
+
+ORIGINAL TEXT
+-------------
+OONI Probe is developed by the Open Observatory of Network Interference (OONI), a free software project
+(under The Tor Project) that aims to uncover internet censorship around the world.
+
+TRANSLATION
+-----------
+OONI Probe разрабатывается Открытой Обсерваторией Сетевых Помех (Open Observatory of Network Interference,
+OONI). OONI Probe является свободным программным обеспечением (в рамках The Tor Project), направленное на
+раскрытие фактов интернет-цензуры во всем мире.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
