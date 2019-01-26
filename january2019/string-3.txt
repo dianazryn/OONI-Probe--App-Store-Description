@@ -1,0 +1,12 @@
+* OONI Probe / description / string 3 *
+
+ORIGINAL TEXT
+-------------
+OONI Probe - Measure Internet Censorship & Speed
+
+TRANSLATION
+-----------
+OONI Probe - измеряйте интернет-цензуру и скорость
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
