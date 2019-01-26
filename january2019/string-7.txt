@@ -1,0 +1,15 @@
+* OONI Probe / description / string 7 *
+
+ORIGINAL TEXT
+-------------
+With this app, you will examine the blocking of websites and instant messaging apps, measure your
+network's speed and performance, and check whether systems that could be responsible for censorship
+and surveillance are in your network.
+
+TRANSLATION
+-----------
+С помощью этого приложения вы сможете исследовать блокировки веб-сайтов и мессенджеров, измерять скорость
+и производительность вашей сети и проверять наличие в вашей сети систем, отвечающих за цензуру и слежку.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
