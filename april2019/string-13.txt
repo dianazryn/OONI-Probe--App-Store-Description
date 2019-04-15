@@ -1,0 +1,12 @@
+* OONI Probe / description / string 13 *
+
+ORIGINAL TEXT
+-------------
+Detect systems responsible for censorship and surveillance
+
+TRANSLATION
+-----------
+Обнаруживайте системы, отвечающие за цензуру и слежку
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
