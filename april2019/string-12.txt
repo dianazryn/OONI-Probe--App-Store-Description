@@ -1,0 +1,14 @@
+* OONI Probe / description / string 12 *
+
+ORIGINAL TEXT
+-------------
+You can check whether and how websites and instant messaging apps are blocked. The network
+measurement data you will collect may serve as evidence of internet censorship.
+
+TRANSLATION
+-----------
+Вы можете проверить, заблокированы ли веб-сайты и мессенджеры и каким образом. Данные измерения
+сети, которые вы собираете, могут служить доказательством цензуры в интернете.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
