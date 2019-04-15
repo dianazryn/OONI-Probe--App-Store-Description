@@ -1,0 +1,12 @@
+* OONI Probe / description / string 22 *
+
+ORIGINAL TEXT
+-------------
+Detect internet censorship and test your network's speed and performance
+
+TRANSLATION
+-----------
+Обнаруживайте наличие интернет-цензуры и тестируйте скорость и производительность вашей сети
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
