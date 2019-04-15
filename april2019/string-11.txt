@@ -1,0 +1,12 @@
+* OONI Probe / description / string 10 *
+
+ORIGINAL TEXT
+-------------
+Collect evidence of internet censorship
+
+TRANSLATION
+-----------
+Собирайте доказательства интернет-цензуры
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
