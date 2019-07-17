@@ -1,6 +1,6 @@
 **ATTENTION!** This resource doesn't exist anymore on transifex!
 
-
+-------------------------------------------------------------------------------------------------------------------------------
 
 **This repository is for my translations of the resource 'description'.**
 
