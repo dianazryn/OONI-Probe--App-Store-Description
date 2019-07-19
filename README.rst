@@ -1,4 +1,4 @@
-**ATTENTION!** This resource doesn't exist anymore on transifex!
+**EDIT:** This resource was renamed from `description-ooniprobe` to `App Store Description` on transifex !
 
 -------------------------------------------------------------------------------------------------------------------------------
 
