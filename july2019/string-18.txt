@@ -1,0 +1,18 @@
+* OONI Probe / App Store Description / string 18 *
+
+ORIGINAL TEXT
+-------------
+OONI publishes network measurement data because open data allows third parties to
+verify OONI findings, conduct independent studies, and answer other research questions.
+Openly publishing OONI data also helps increase transparency of internet censorship
+around the world. You can explore and download OONI data here: https://ooni.io/data/
+
+TRANSLATION
+-----------
+OONI публикует данные по измерению сети, поскольку открытые данные позволяют проверять
+полученные OONI измерения, проводить независимые исследования и отвечать на многие
+исследовательские вопросы. Такие данные также позволяют повысить прозрачность сведений
+об интернет-цензуре в мире. Вы можете изучить и скачать данные OONI здесь: https://ooni.io/data/
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
