@@ -1,0 +1,14 @@
+* OONI Probe / App Store Description / string 14 *
+
+ORIGINAL TEXT
+-------------
+OONI Probe tests are also designed to uncover the presence of systems (middleboxes)
+that could be responsible for censorship and surveillance.
+
+TRANSLATION
+-----------
+Тесты OONI Probe также предназначены для выявления присутствия систем (middleboxes),
+которые могут быть ответственны за цензуру и слежку.
+
+
+// (c) Diana Azaryan @dianazryn, 2019.
